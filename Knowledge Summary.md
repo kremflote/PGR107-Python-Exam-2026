@@ -1,7 +1,6 @@
 
-
-
 <font color="#c0504d">Lecture 11 - Matplotlib legends and subplot layouts:</font>
+
 **P11.1.ipynb — Customizing Plot Legends**
 This notebook covers how to add and style legends on matplotlib plots. 
 - **6.1** – Basic legend with `ax.legend()`, plotting sine and cosine curves with labels
@@ -140,10 +139,6 @@ Practice tasks covering all three lecture topics: element-wise arithmetic on 1D 
 Complete solutions for all P8 tasks. Useful for reference — shows clean, concise NumPy patterns including `np.copy()` for safe array duplication and `reshape(-1, 1)` for broadcasting.
 
 <font color="#c0504d">Lecture 7 — Introduction to NumPy: Arrays, Indexing, and Arithmetics</font>
-
-Here's the full breakdown of Lecture 7:
-
----
 
 **lec7_1.ipynb — NumPy Arrays: Basics and Arithmetic**
 

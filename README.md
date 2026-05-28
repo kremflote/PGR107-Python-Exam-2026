@@ -9,16 +9,16 @@
 
 ### Python Programming, Algorithms, Matrix Operations and Grade Drift Analysis | Kristiania
 
-**Emne:** [Sett inn emnekode og emnenavn]  
-**Semester:** [Sett inn semester]  
-**Foreleser:** [Sett inn foreleser]
+**Emne:** PGR107 Python Programming
+**Semester:** Vår-2026   
+**Foreleser:** [Huamin Ren](https://www.linkedin.com/in/huamin-ren-660b3020/)
 
 **Gruppemedlemmer:**
 
 | Navn | GitHub |
 |------|--------|
-| [Navn] | [@brukernavn](https://github.com/brukernavn) |
-| [Navn] | [@brukernavn](https://github.com/brukernavn) |
+| Marius Kristensen | [@kremflote](https://github.com/kremflote) |
+| Marius André Ellingsen | [@mariusaellingsen](https://github.com/mariusaellingsen) |
 
 ---
 
@@ -29,7 +29,7 @@
 </p>
 
 Sensor begrunnelse:  
-[Sett inn sensorbegrunnelse her]
+x
 
 ---
 
@@ -182,17 +182,6 @@ H2 får heller ikke sterk støtte. Noen programgrupper viser en reduksjon i lave
 
 ---
 
-## Teknologier brukt
-
-- Python
-- NumPy
-- Pandas
-- Matplotlib
-- chardet
-- random
-
----
-
 ## Kilder
 
 François, M., & De Witte, K. (2025). *A decade of grade inflation boosted by the COVID-19 pandemic: An empirical analysis of a top European university*. British Educational Research Journal, 51(5), 2271–2339. https://doi.org/10.1002/berj.4172
@@ -203,4 +192,4 @@ Utdanningsdirektoratet. (n.d.). *Karakterstatistikk for videregående skole*. Re
 
 ---
 
-*[Sett inn emnekode] Avsluttende eksamen — Kristiania University College, 2026*
+*PGR107 Avsluttende eksamen — Kristiania University College, 2026*

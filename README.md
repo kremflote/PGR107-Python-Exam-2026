@@ -25,11 +25,11 @@
 ## Karakter
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Karakter-[Sett%20inn]-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Karakter-A-green?style=for-the-badge" />
 </p>
 
 Sensor begrunnelse:  
-x
+Fremragende prestasjon som klart utmerker seg. Kandidaten viser svært godvurderingsevne og stor grad av selvstendighet.
 
 ---
 

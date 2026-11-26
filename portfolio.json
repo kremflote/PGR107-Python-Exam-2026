@@ -1,0 +1,20 @@
+{
+  "title": "Python Exam 2026",
+  "description": "Eksamensprosjekt i Python med fem oppgaver innen programmering, numeriske beregninger og dataanalyse.",
+  "category": "kristiania",
+  "grade": "A",
+  "legacyId": 7,
+  "screenshots": [
+    "docs/portfolio/pgr107-python-exam-2026-1.jpg",
+    "docs/portfolio/pgr107-python-exam-2026-2.jpg",
+    "docs/portfolio/pgr107-python-exam-2026-3.jpg",
+    "docs/portfolio/pgr107-python-exam-2026-4.jpg"
+  ],
+  "sections": [
+    "Karakter",
+    "Oversikt",
+    "Problemoversikt",
+    "Hypoteser",
+    "Konklusjon"
+  ]
+}
